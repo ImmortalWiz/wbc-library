@@ -1,74 +1,68 @@
-# Theological Notes: Pillar 1 — Mythos & The Entropic Conflict
+# Theological Notes: Pillar 1 — Mythos & The Primal Sanctuary
 
-**Classification:** Working Theological Notes / Canonical Design  
+**Classification:** Canonical Mythological Core (Locked)  
 **Repository:** [`wbc-library/01_theological_compendium/vesselist_doctrine/`](https://github.com/ImmortalWiz/wbc-library/tree/main/01_theological_compendium/vesselist_doctrine)  
 **Parent Engine:** [Harry Potter and the Magical Reality Check (`SUBVERTED_HARRY`)](https://github.com/ImmortalWiz/harry-potter-and-the-magical-reality-check)  
-**Pillar:** Pillar 1 (Mythos / Cosmogony)
+**Setting Horizon:** Paleolithic-Neolithic Tribal Threshold (The First Walls)
 
 ---
 
-## 1. Core Premise (The Seed of Ideation)
+## 1. The Four Foundational Tenets
 
-> *"The core is conflict between order and chaos (because the religion was at the onset of tribe society). Entropy is the antithesis of life in this theology. And magic is viewed as the tool infecting the most intelligent of life forms to bring on chaos to the safe harbour of life: Earth."*
+### Tenet A: Primitive, Anthropological Vocabulary
+* **No Abstractions:** The sacred text strictly avoids modern abstractions like "entropy," "thermodynamics," or "intelligence."
+* **The Primal Categories:** The world is understood through raw, sensory realities:
+  * **The Fire / The Hearth:** Life, warmth, sworn kinship, predictability.
+  * **The Great Frost / The Dark Outside:** The freezing void beyond the sky, predatory beasts, starvation.
+  * **The Vulnerability Outside:** To be outside the perimeter is death.
+  * **The Supremacy of the Human Animal:** Humans are the supreme beasts, masters of predator and prey through collective organization, speech, and crafted stone/wood tools.
 
----
+### Tenet B: Accidental Magic as the Primal Terror
+* **The Root Catalyst:** At the dawn of the tribe, there were no wands, schools, or formal spellcraft. There was only **accidental magic**—violent, unpredictable biological anomalies.
+* **The Clan's Existential Threat:** When a child suddenly leaks fire without flint, makes food rot with a touch, or manifests impossible physical warps, the survival of the fragile winter camp is endangered.
+* **The Religion as Immune Response:** The faith arose as a life-or-death communal defense system: to isolate, suppress, purge, or beat the unnatural warp out of the afflicted before the whole shelter was destroyed.
 
-## 2. Anthropological & Historical Context: The Tribal Dawn
+### Tenet C: The Nested Sanctuaries (The Human Mirror of the Gods)
+* **The First Sanctuary (Cosmic):** The Gods made the Earth as a round, bounded shore against the black, freezing, airless void of the cosmos, protecting all natural life.
+* **The Second Sanctuary (Tribal):** In the image of what the Gods did with Earth, humans (the supreme animal) built **The Tribe**: four posts in the ground, a thatched roof, and a central hearth to shelter themselves from fangs, winter, rot, and the Blight.
+* **The Tragic Limit:** Humans are *not* gods. The tribe’s protection is finite and fragile. It holds only as long as every member maintains fierce discipline, physical labor, and vigilance over the perimeter.
 
-* **The Onset of Tribal Society:** The religion was not born in advanced urban empires, but in the fragile dawn of settled tribal life (the Neolithic / early Bronze threshold).
-* **The Existential Reality of the Early Tribe:**
-  * To the early human tribe, **survival was a constant, exhausting war against dissolution**.
-  * The wild, predatory nature outside the palisade, the spoiling of grain, the freezing winter, the collapse of unbaked mud walls, and internal lawlessness were all manifestations of a single cosmic enemy: **Dissolution / Chaos**.
-  * Gathering by the hearth, building stone walls, firing clay vessels, and binding humans into sworn kinship was the first holy act: **carving an island of Order out of the boundless wilderness**.
-
----
-
-## 3. Metaphysics: Entropy as the Antithesis of Life
-
-In this theological system:
-* **The Void / Entropy:** The universe's default, unthinking tendency toward coldness, dispersion, formlessness, and rot. It is the unmade silt, the solvent that hates walls.
-* **Life as Defiant Resistance:** Life is not a passive accident; it is the active, miraculous holding of low-entropy form against the universal drift. Life requires continuous expenditure of energy, friction, sweat, and containment to maintain its boundaries.
-* **Earth as the Safe Harbour:** The material physical world (Earth) is understood as a sacred, fortified anchorage—a sheltered harbor in a cosmos of swirling, indifferent chaos. Here, stable physical laws, biological growth, and tangible cause-and-effect provide a sanctuary where life can endure.
-
----
-
-## 4. The Theological Diagnosis of Magic: The Vector of Chaos
-
-Unlike fantasy cosmologies where magic is a benevolent blessing, divine spark, or neutral tool, this theology diagnoses magic with terrifying clarity:
-
-1. **The Cosmic Infection:**
-   * Magic is an entropic parasite—an alien, solvent force seeking to breach and dissolve the safe harbour of physical reality.
-2. **Targeting the Most Intelligent Life Form:**
-   * Magic specifically infects humanity because humans are the cognitive keystone of Earth's order. Human intelligence is the only faculty capable of either upholding the safe harbour through discipline and law, or tearing it open through hubris.
-3. **The Seduction of the Unearned Shortcut:**
-   * Magic tempts the intellect by offering **effects without physical causality, motion without muscular effort, heat without fire, and increase without labor**.
-   * It tells the human: *"You need not sweat; you need not endure the kiln; you can bypass the stone."*
-4. **The Structural Cost:**
-   * Every magical act is an unmeasured puncture in the harbor's wall. When a human channels magic, they are not creating power; they are letting the cosmic solvent seep through their nervous system into the physical world, bringing forward the heat-death and chaotic collapse of reality.
+### Tenet D: The Parasite Attacks All Life (Biological Mutation)
+* **Not Just a Human Mind Disease:** The Blight (magic) infects **life itself**. It is an unnatural, cosmic contagion that mutates and corrupts normal physical creatures:
+  * A **dragon** is not a sacred creature; it is a common lizard bloated and diseased by the infection until it leaks fire from its gut.
+  * A **basilisk** is a corrupted serpent.
+  * When it strikes a **human child**, the child becomes an abnormal, leaking mutant that threatens the pack.
 
 ---
 
-## 5. Structural Impact on *The Book of the Shaper*
-
-This ideation directly establishes the narrative arc for **Canticle I of the Canon**:
+## 2. The Architectural Metaphor of the Canon
 
 ```mermaid
 flowchart TD
-    Chaos["The Primordial Void / Cosmic Entropy\n(Formless, cold, predatory dissolution)"]
-    Shaper["The First Order / The Shaper\n(Forges boundaries, fires the kiln, creates Earth)"]
-    Earth["The Safe Harbour: Earth & Life\n(Physical causality, seasonal rhythms, low entropy)"]
-    Tribe["The Dawn of the Tribe\n(Pitched hearths, clay vessels, collective labor)"]
-    Magic["The Infection: Magic / The Seep\n(Infects human will with unearned bypasses)"]
-    Rupture["The Rupture: Dissolution & Rot\n(Chaos re-entering the safe harbour)"]
+    Void["The Great Frost / The Starless Dark\n(Cold, airless, barren dissolution)"]
+    Earth["The Earth: The First Safe Shore\n(Built by the Gods to shelter all breathing life)"]
+    Wild["The Wilderness: Fangs, Rot, The Blight\n(Predators, starvation, biological corruption)"]
+    Tribe["The Tribe: The Hearth & Palisade\n(Built by Man in the image of the Gods)"]
+    Blight["The Blight / Magic\n(Infects beasts into monsters, children into leaking anomalies)"]
+    Rupture["The Gap in the Wall\n(Unchecked accidental magic burns the winter camp)"]
 
-    Chaos -->|Threatens| Earth
-    Shaper -->|Carves out & bounds| Earth
-    Earth -->|Nurtures| Tribe
-    Chaos -->|Vector of infiltration| Magic
-    Magic -->|Infects intelligent mind| Tribe
-    Tribe -->|If unsealed, causes| Rupture
+    Void -->|Surrounds| Earth
+    Earth -->|Nurtures| Wild
+    Wild -->|Threatens| Tribe
+    Blight -->|Mutates lizards into| Dragon["Dragons / Monstrosities"]
+    Blight -->|Infects child into| Accidental["Accidental Magic / Leaking Child"]
+    Accidental -->|If unsuppressed, causes| Rupture
+    Tribe -->|Suppresses with fire, cold & stone| Accidental
 ```
 
-* **The Primal Mandate:** Humanity’s sacred duty is not conquest, but **stewardship of the seal**—maintaining the low-entropy sanctuary against the rot of the void.
-* **The Saintly Ideal:** The builder, the smith, the tilled field, the sealed pot, the disciplined body.
-* **The Abomination:** The witch, the sorcerer, the unworked miracle, the leaking vessel.
+---
+
+## 3. Sample Canonical Verse (*Canticle I: The Two Enclosures*)
+
+> **1:1** In the outer dark where the sun goeth not, there is neither marrow nor breath; only the Great Frost that hungereth for meat.  
+> **1:2** And the Shaper of Old laid down the Earth like an island between the waters and the sky, and gave her grass, and beasts of the field, and boundaries that do not wander.  
+> **1:3** And Man was the cunning animal among the herds; and Man saw that the night had teeth, and the cold was swift.  
+> **1:4** Therefore Man did what the Shaper did: he drove four stakes into the silt, and built the round hearth, and called his brothers to the fire.  
+> **1:5** The Earth is the pen of the Gods against the sky; the Tribe is the pen of Man against the beast.  
+> **1:6** But the creeping Blight falleth upon the grass. It toucheth the lizard of the stones, and he swelleth into the great worm that vomiteth fire; it toucheth the son of the hunter, and his fingers spit unnatural heat without wood.  
+> **1:7** If the father pity the leaking son, the thatch taketh flame in the night; and the frost cometh through the ash, and the pack dieth together.
