@@ -3,66 +3,76 @@
 **Classification:** Canonical Mythological Core (Locked)  
 **Repository:** [`wbc-library/01_theological_compendium/vesselist_doctrine/`](https://github.com/ImmortalWiz/wbc-library/tree/main/01_theological_compendium/vesselist_doctrine)  
 **Parent Engine:** [Harry Potter and the Magical Reality Check (`SUBVERTED_HARRY`)](https://github.com/ImmortalWiz/harry-potter-and-the-magical-reality-check)  
-**Setting Horizon:** Paleolithic-Neolithic Tribal Threshold (The First Walls)
+**Setting Horizon:** Paleolithic-Neolithic Tribal Threshold (The First Hearths)
 
 ---
 
-## 1. The Four Foundational Tenets
+## 1. The Core Cosmic Cosmology: Deep Time & The Formless God
 
-### Tenet A: Primitive, Anthropological Vocabulary
-* **No Abstractions:** The sacred text strictly avoids modern abstractions like "entropy," "thermodynamics," or "intelligence."
-* **The Primal Categories:** The world is understood through raw, sensory realities:
-  * **The Fire / The Hearth:** Life, warmth, sworn kinship, predictability.
-  * **The Great Frost / The Dark Outside:** The freezing void beyond the sky, predatory beasts, starvation.
-  * **The Vulnerability Outside:** To be outside the perimeter is death.
-  * **The Supremacy of the Human Animal:** Humans are the supreme beasts, masters of predator and prey through collective organization, speech, and crafted stone/wood tools.
+### 1.1 "God" as The Formless Hold (Order Itself)
+* **Non-Humanoid Reality:** God is not an anthropomorphic ruler, an old man in the sky, or a craft-god with human hands and ego.
+* **The Cosmic Definition:** God is **The Hold / The Bind / The Great Grip (The Formless Order)**—the silent, omnipresent, unyielding physical current that resists cosmic dispersal, pulls matter into form, and upholds physical causality.
+* **The Anti-Thesis:** **The Great Scatter / The Dissolving / The Drift (Entropy)**—the cold, airless, infinite vacuum that perpetually seeks to disperse all heat, dissolve all bonds, and return reality to dead, uniform silence.
 
-### Tenet B: Accidental Magic as the Primal Terror
-* **The Root Catalyst:** At the dawn of the tribe, there were no wands, schools, or formal spellcraft. There was only **accidental magic**—violent, unpredictable biological anomalies.
-* **The Clan's Existential Threat:** When a child suddenly leaks fire without flint, makes food rot with a touch, or manifests impossible physical warps, the survival of the fragile winter camp is endangered.
-* **The Religion as Immune Response:** The faith arose as a life-or-death communal defense system: to isolate, suppress, purge, or beat the unnatural warp out of the afflicted before the whole shelter was destroyed.
-
-### Tenet C: The Nested Sanctuaries (The Human Mirror of the Gods)
-* **The First Sanctuary (Cosmic):** The Gods made the Earth as a round, bounded shore against the black, freezing, airless void of the cosmos, protecting all natural life.
-* **The Second Sanctuary (Tribal):** In the image of what the Gods did with Earth, humans (the supreme animal) built **The Tribe**: four posts in the ground, a thatched roof, and a central hearth to shelter themselves from fangs, winter, rot, and the Blight.
-* **The Tragic Limit:** Humans are *not* gods. The tribe’s protection is finite and fragile. It holds only as long as every member maintains fierce discipline, physical labor, and vigilance over the perimeter.
-
-### Tenet D: The Parasite Attacks All Life (Biological Mutation)
-* **Not Just a Human Mind Disease:** The Blight (magic) infects **life itself**. It is an unnatural, cosmic contagion that mutates and corrupts normal physical creatures:
-  * A **dragon** is not a sacred creature; it is a common lizard bloated and diseased by the infection until it leaks fire from its gut.
-  * A **basilisk** is a corrupted serpent.
-  * When it strikes a **human child**, the child becomes an abnormal, leaking mutant that threatens the pack.
+### 1.2 Deep Time: The Agonizing Sediment (14B Universe, 4.5B Earth)
+* **No Instant Magical Creation:** The Earth was not poofed into existence in a week.
+* **The Astronomical Struggle:** Through uncounted ages—astronomical deep time that human language can only fathom as *"darknesses beyond reckoning"*—The Hold ground against The Scatter. It gathered the drifting stellar ash, compressed the core, and slowly cooled a planetary crust.
+* **Earth as the Macro-Sanctuary:** Earth is the hard-won sediment of billions of years of silent, physical pressure—a rare, fragile, low-entropy anchorage in a hostile cosmos where atmosphere, liquid water, and biological breath can endure.
 
 ---
 
-## 2. The Architectural Metaphor of the Canon
+## 2. The Twin Cheats: Prayer and Magic
+
+In this theology, **conventional prayer and magical casting are the exact same moral corruption**:
+
+| Pathway | The Mechanism | Moral Classification |
+| :--- | :--- | :--- |
+| **Conventional Prayer** | Begging an outside entity to bypass physical causality and deliver an unearned result without physical labor. | **The Coward's Cheat** (Spiritual parasitism). |
+| **Magical Casting** | Using an occult shortcut to bypass physical causality and manifest an effect without physical energy/collateral. | **The Sorcerer's Cheat** (Cosmic breach). |
+| **The Holy Path: Physical Labor** | Exerting muscle, calories, breath, and crafted tools against raw matter. Paying the full energetic debt in sweat. | **The Only True Devotion** (Alignment with The Hold). |
+
+> *"You do not pray for the timber to rise; you fell the oak, you rig the hemp, you call your brothers, and you lift with your back. The universe honors the weight, not the whine."*
+
+---
+
+## 3. Primal Energies: The Earth and The Fire
+
+The religion commands absolute reverence for the raw, unforgiving strength and energy of natural elements:
 
 ```mermaid
 flowchart TD
-    Void["The Great Frost / The Starless Dark\n(Cold, airless, barren dissolution)"]
-    Earth["The Earth: The First Safe Shore\n(Built by the Gods to shelter all breathing life)"]
-    Wild["The Wilderness: Fangs, Rot, The Blight\n(Predators, starvation, biological corruption)"]
-    Tribe["The Tribe: The Hearth & Palisade\n(Built by Man in the image of the Gods)"]
-    Blight["The Blight / Magic\n(Infects beasts into monsters, children into leaking anomalies)"]
-    Rupture["The Gap in the Wall\n(Unchecked accidental magic burns the winter camp)"]
+    Hold["The Formless Hold / Cosmic Order\n(Impersonal, deep-time binding of matter)"]
+    Earth["Macro Sanctuary: The Earth\n(Cooled crust, atmosphere, deep heat held within)"]
+    Fire["Local Example: The Fire\n(Tended within the hearth stones, demands dry wood, keeps clan alive)"]
+    Elements["Primal Energies: Earth, Water, Fire\n(Immense, unforgiving strength that must be respected)"]
+    Work["Physical Labor & Respect\n(Dikes for water, stones for fire, levers for earth)"]
+    Magic["Magic / Parasitic Blight\n(Treats fire as stick-tricks, water from nothing; cosmic disrespect)"]
 
-    Void -->|Surrounds| Earth
-    Earth -->|Nurtures| Wild
-    Wild -->|Threatens| Tribe
-    Blight -->|Mutates lizards into| Dragon["Dragons / Monstrosities"]
-    Blight -->|Infects child into| Accidental["Accidental Magic / Leaking Child"]
-    Accidental -->|If unsuppressed, causes| Rupture
-    Tribe -->|Suppresses with fire, cold & stone| Accidental
+    Hold --> Earth
+    Earth --> Fire
+    Earth --> Elements
+    Elements -->|Must be engaged through| Work
+    Elements -.->|Mocked & insulted by| Magic
 ```
+
+### 3.1 Earth as the Macro-Sanctuary
+* The Earth is the macro-hearth. It holds the boiling fires deep within its belly while presenting a cold, stable crust upon which creatures can tread.
+* It demands that all who walk upon it respect gravity, distance, and the seasons.
+
+### 3.2 Fire as the Local, Living Example
+* **The Living Teacher:** Fire is the immediate, tangible teacher of cosmic law in the camp.
+* **The Contract of Fire:** Fire gives warmth, light, and cooking, but it operates under strict, non-negotiable physical laws:
+  * It demands dry wood and oxygen.
+  * It must be kept bounded within a ring of hard stones.
+  * If fed and tended with discipline, it saves the clan from the freezing dark.
+  * If neglected, disrespected, or allowed to leap the stones, it consumes the shelter and burns the forest to ash.
+* **Respecting Primal Strength:** You cannot negotiate with fire, flood, or stone. You build dikes for water, you gather fuel for fire, and you use rollers for stone. 
+* **Magic’s Sacrilege:** Magic treats fire as a parlor trick to flick from a stick without fuel, conjures water from thin air without rain, and ignores the weight of stone. By treating primal energies with flippant disrespect, magic invites catastrophic backlashes.
 
 ---
 
-## 3. Sample Canonical Verse (*Canticle I: The Two Enclosures*)
+## 4. The Parasite and Accidental Magic
 
-> **1:1** In the outer dark where the sun goeth not, there is neither marrow nor breath; only the Great Frost that hungereth for meat.  
-> **1:2** And the Shaper of Old laid down the Earth like an island between the waters and the sky, and gave her grass, and beasts of the field, and boundaries that do not wander.  
-> **1:3** And Man was the cunning animal among the herds; and Man saw that the night had teeth, and the cold was swift.  
-> **1:4** Therefore Man did what the Shaper did: he drove four stakes into the silt, and built the round hearth, and called his brothers to the fire.  
-> **1:5** The Earth is the pen of the Gods against the sky; the Tribe is the pen of Man against the beast.  
-> **1:6** But the creeping Blight falleth upon the grass. It toucheth the lizard of the stones, and he swelleth into the great worm that vomiteth fire; it toucheth the son of the hunter, and his fingers spit unnatural heat without wood.  
-> **1:7** If the father pity the leaking son, the thatch taketh flame in the night; and the frost cometh through the ash, and the pack dieth together.
+* **The Vector of Infection:** The Blight (magic) infects life itself across all species. It turns ordinary lizards into fire-swollen dragons and serpents into basilisks.
+* **The Early Clan's Terror:** Accidental magic in early human children was recognized as the ultimate domestic hazard. A child suddenly leaking fire without wood or turning milk to poison threatened to break the hearth’s ring of stones and destroy the entire winter settlement.
+* **Communal Duty:** The suppression and cleansing of the anomaly is an act of pack-preservation: enforcing the ring of stones so the wild dark cannot enter.
